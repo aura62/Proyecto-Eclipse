@@ -1,6 +1,6 @@
 
 public class Rectangulo {
-	private Punto v1,v2,v3,v4;
+	private Punto v1,v2,v3,v4; //agrego un comentario para que tenga algun cambio con el primer commit
 	
 	public Rectangulo (Punto p, Integer b, Integer a){
 		this.v1=p;
